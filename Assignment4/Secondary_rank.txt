@@ -1,0 +1,2920 @@
+Academy of Mary Immaculate
+144
+-28
+31
+7.1%
+Adass Israel School
+534
+-1
+N/A
+N/A
+Advance College of Education
+535
+-1
+N/A
+N/A
+Aitken College
+194
++32
+30
+4.8%
+Al Siraat College
+280
++172
+28
+5.4%
+Al-Taqwa College
+400
+-37
+26
+3.8%
+Albert Park College
+131
+-42
+31
+8.6%
+Albury Wodonga Comm College
+536
+-1
+N/A
+N/A
+Alexandra Secondary College
+481
++2
+24
+4.2%
+Alia College
+500
+-3
+24
+0%
+Alice Miller School
+127
++126
+31
+9.6%
+Alkira Secondary College
+328
++40
+28
+1.8%
+Alphington Grammar School
+86
+-1
+32
+12.1%
+Antonine College
+482
+-68
+24
+3.7%
+Apollo Bay P-12 College
+18
++64
+36
+21.4%
+Aquinas College
+151
++26
+31
+6.5%
+Ararat Secondary College
+486
+-49
+24
+1.5%
+Ashwood High School
+241
+-1
+29
+3.9%
+Assumption College
+301
++24
+28
+3.8%
+Auburn High School
+167
++209
+30
+8.6%
+Australian Internatl Academy
+501
+-312
+24
+0%
+Ave Maria College
+111
++23
+32
+8.1%
+Avila College
+102
++2
+32
+9.1%
+Bacchus Marsh College
+496
++2
+24
+0.4%
+Bacchus Marsh Grammar
+147
+-28
+31
+6.7%
+Baimbridge College
+452
+-13
+25
+3.4%
+Bairnsdale Secondary College
+513
+-22
+23
+0.7%
+Balcombe Grammar School
+156
+-3
+31
+4.7%
+Ballarat Christian College
+408
+-165
+26
+3%
+Ballarat Clarendon College
+12
+-8
+36
+27.5%
+Ballarat Grammar
+84
++9
+32
+12.4%
+Ballarat High School
+266
++33
+29
+2.3%
+Ballarat SC - Mount Rowan
+442
++67
+26
+0%
+Ballarat SC - Woodmans Hill
+488
+-148
+24
+1.3%
+Balwyn High School
+44
+-1
+34
+19.3%
+Bayside Christian College
+242
+-36
+29
+3.9%
+Bayside P-12 College
+243
++76
+29
+3.9%
+Bayswater Secondary College
+526
+-6
+22
+0%
+Bayview College
+251
++14
+29
+3.2%
+Beaconhills College
+152
+-8
+31
+6.4%
+Beaconhills College
+186
+-34
+30
+5.4%
+Beaufort Secondary College
+391
+-34
+27
+0%
+Beechworth Secondary College
+457
+-120
+25
+2.2%
+Belgrave Heights Christian Schl
+255
+-84
+29
+3%
+Bellarine Secondary College
+421
+-37
+26
+1.7%
+Belmont High School
+343
+-56
+27
+5.3%
+Benalla P-12 College
+512
+-2
+23
+1.4%
+Bendigo Senior Sec College
+375
++17
+27
+2.1%
+Bendigo TAFE
+537
+-1
+N/A
+N/A
+Bentleigh Secondary College
+230
++39
+29
+4.8%
+Berry Street Victoria
+538
+-1
+N/A
+N/A
+Berwick Grammar School
+75
++52
+33
+10.9%
+Berwick Secondary College
+245
+-13
+29
+3.8%
+Beth Rivkah Ladies College
+36
++3
+35
+18.4%
+Bialik College
+1
++2
+38
+40.2%
+Billanook College
+122
++10
+31
+10.6%
+Birchip P-12 School
+274
+-16
+28
+8.9%
+Blackburn High School
+216
+-44
+29
+6.5%
+Boort District P-12 School
+208
+-18
+30
+3.1%
+Boronia K-12 College
+473
++30
+25
+0%
+Box Hill High School
+56
++10
+34
+16.1%
+Box Hill Institute
+539
+-1
+N/A
+N/A
+Box Hill Senior Sec College
+416
++50
+26
+1.9%
+Braemar College
+71
++6
+33
+12.4%
+Brauer College
+382
+-94
+27
+1.7%
+Braybrook College
+139
++39
+31
+7.3%
+Brentwood Secondary College
+168
+-17
+30
+8.3%
+Bright P-12 College
+203
++166
+30
+4%
+Brighton Grammar School
+46
+-1
+34
+18.3%
+Brighton Secondary College
+213
+-32
+29
+6.7%
+Broadford Secondary College
+417
++40
+26
+1.9%
+Brunswick Secondary College
+211
+-38
+29
+7.5%
+Buckley Park College
+123
++6
+31
+10%
+Bundoora Secondary College
+531
+-13
+20
+0.8%
+Camberwell Anglican Girls GS
+11
++3
+36
+27.6%
+Camberwell Grammar School
+26
++4
+35
+23.4%
+Camberwell High School
+112
+-12
+32
+8%
+Camperdown College
+392
+-183
+27
+0%
+Cann River P-12 College
+540
+-29
+N/A
+N/A
+Canterbury Girls Sec College
+91
+-5
+32
+11.2%
+Carey Baptist Grammar School
+68
++12
+33
+14.6%
+Caroline Chisholm Catholic Coll
+235
+-44
+29
+4.3%
+Carrum Downs Sec College
+469
+-2
+25
+0.6%
+Carwatha College P-12
+418
++54
+26
+1.9%
+Casey Grammar School
+197
++175
+30
+4.6%
+Casterton Secondary College
+89
+-28
+32
+11.5%
+Castlemaine Secondary College
+295
++127
+28
+4.1%
+Cathedral College
+214
++19
+29
+6.6%
+Catherine McAuley College
+217
+N/A
+29
+6.5%
+Catholic College Sale
+212
+-49
+29
+7.1%
+Catholic College Wodonga
+308
+-42
+28
+3.4%
+Catholic Ladies College
+103
++51
+32
+9.1%
+Catholic Regional College
+236
+-36
+29
+4.3%
+Catholic Regional College
+271
++57
+29
+1.4%
+Catholic Regional College
+541
+N/A
+N/A
+N/A
+Catholic Regional College
+542
+N/A
+N/A
+N/A
+Catholic Regional College
+543
+-4
+N/A
+N/A
+Caulfield Grammar School
+24
++17
+35
+24%
+Caulfield Grammar School
+39
+-11
+34
+22.8%
+Centre for Adult Education
+463
+-4
+25
+1.2%
+Chaffey Secondary College
+544
+-4
+N/A
+N/A
+Chairo Christian School
+220
++24
+29
+5.8%
+Charles La Trobe P-12 College
+465
+-60
+25
+1%
+Charles La Trobe P-12 College
+545
+-4
+N/A
+N/A
+Charlton College
+132
+-25
+31
+8.6%
+Cheltenham Secondary College
+285
+-61
+28
+4.6%
+Chisholm Institute
+493
+-13
+24
+0.7%
+Chisholm Institute of TAFE
+532
+-4
+20
+0.6%
+Christian Brothers' College
+148
++44
+31
+6.7%
+Christian College Institute
+114
++14
+32
+7.8%
+Cire Community School
+546
+-4
+N/A
+N/A
+Clonard College
+140
++53
+31
+7.3%
+Cobden Technical School
+502
++19
+24
+0%
+Cobram Anglican Grammar School
+450
+-33
+25
+4.5%
+Cobram Secondary College
+398
+-21
+26
+7%
+Coburg High School
+79
++87
+33
+3.3%
+Cohuna Secondary College
+282
++73
+28
+5.2%
+Colac Secondary College
+517
+-5
+23
+0.5%
+Collingwood College
+359
++57
+27
+3%
+Copperfield College
+302
+-22
+28
+3.8%
+Cornish College
+176
++71
+30
+7%
+Corryong College
+320
+-42
+28
+2.5%
+Covenant College
+128
++15
+31
+9.5%
+Craigieburn Secondary College
+497
+-71
+24
+0.4%
+Cranbourne East Sec College
+260
++55
+29
+2.7%
+Cranbourne Secondary College
+381
+-77
+27
+1.8%
+Croydon Community School
+547
+-4
+N/A
+N/A
+Damascus College
+340
+-51
+27
+5.9%
+Dandenong High School
+514
+-19
+23
+0.7%
+Darul Ulum College of Victoria
+261
++137
+29
+2.7%
+Daylesford Secondary College
+352
++91
+27
+3.6%
+De La Salle College
+115
++64
+32
+7.2%
+Derrinallum P12 College
+332
+-120
+28
+0%
+Diamond Valley College
+358
++37
+27
+3.2%
+Diamond Valley Learn Centre
+548
+-4
+N/A
+N/A
+Dimboola Memorial Sec College
+161
+-101
+31
+0%
+Distance Education Victoria
+275
++25
+28
+7.4%
+Diversitat
+549
+-4
+N/A
+N/A
+Djerriwarrh Emp. & Edu. Servic.
+550
+-4
+N/A
+N/A
+Donald High School
+303
++18
+28
+3.8%
+Doncaster Secondary College
+225
++13
+29
+5.3%
+Donvale Christian College
+74
++5
+33
+11.1%
+Dromana Secondary College
+195
+-84
+30
+4.8%
+Drouin Secondary College
+314
++71
+28
+3%
+East Doncaster Sec College
+105
+-14
+32
+9%
+East Loddon P-12 College
+160
++50
+31
+1.9%
+East Preston Islamic College
+491
++8
+24
+0.9%
+Echuca College
+427
+-4
+26
+1.3%
+Edenhope College
+474
+-191
+25
+0%
+Edinburgh College
+200
+-50
+30
+4.2%
+Education Centre Gippsland
+551
+-4
+N/A
+N/A
+Elisabeth Murdoch College
+296
++64
+28
+4.1%
+Eltham College
+64
++20
+33
+15.3%
+Eltham High School
+279
+-43
+28
+5.5%
+Elwood College
+175
+-6
+30
+7.4%
+Emerald Secondary College
+276
++34
+28
+7.3%
+Emmanuel College
+180
++87
+30
+5.9%
+Emmanuel College
+289
++69
+28
+4.3%
+Emmaus College
+142
++40
+31
+7.2%
+Epping Secondary College
+309
+-7
+28
+3.4%
+Essendon Keilor College
+460
++4
+25
+1.8%
+Euroa Secondary College
+485
+-72
+24
+1.7%
+F.C.J. College
+324
+-19
+28
+2.1%
+Fairhills High School
+406
+-26
+26
+3.2%
+Federation Training
+503
++19
+24
+0%
+Federation University Australia
+552
+-4
+N/A
+N/A
+Fintona Girls School
+9
++25
+36
+29.8%
+Firbank Grammar School
+29
+0
+35
+22.7%
+Fitzroy High School
+248
+-52
+29
+3.5%
+Flinders Christian Comm College
+149
+-36
+31
+6.6%
+Flinders Christian Comm College
+188
++53
+30
+5.3%
+Footscray City College
+166
++82
+30
+9.1%
+Forest Hill College
+409
++51
+26
+2.6%
+Foster Secondary College
+456
+-97
+25
+2.5%
+Fountain Gate Sec College
+384
+-51
+27
+1.5%
+Frankston High School
+87
++38
+32
+11.8%
+Galen College
+268
+-69
+29
+1.9%
+Geelong Baptist College
+475
+-63
+25
+0%
+Geelong Grammar School
+146
+-9
+31
+6.9%
+Geelong High School
+411
++58
+26
+2.4%
+Geelong Lutheran College
+263
+-18
+29
+2.6%
+Genazzano F.C.J. College
+33
++2
+35
+20.5%
+Gilmore College For Girls
+387
+-170
+27
+1.2%
+Gilson College
+283
++78
+28
+4.9%
+Gippsland Grammar
+141
+-49
+31
+7.3%
+Girton Grammar School
+88
+-35
+32
+11.6%
+Gisborne Secondary College
+370
++54
+27
+2.4%
+Gladstone Park Sec College
+290
+-41
+28
+4.3%
+Glen Eira College
+215
++24
+29
+6.6%
+Glen Waverley Sec College
+66
+-2
+33
+15%
+Gleneagles Secondary College
+221
++95
+29
+5.8%
+Glenroy Neighbourhood Centre
+553
+-4
+N/A
+N/A
+Glenroy Secondary College
+511
++6
+23
+2.2%
+Glenvale School
+97
+-10
+32
+10.3%
+Good News Lutheran College
+520
+-43
+22
+3.4%
+Good Shepherd College
+247
+-46
+29
+3.6%
+Gordon Institute of TAFE
+527
+-27
+22
+0%
+Goroke P-12 College
+333
+-115
+28
+0%
+Goulburn Ovens Inst of TAFE
+554
+-3
+N/A
+N/A
+Goulburn Valley Grammar Schl
+41
++10
+34
+22%
+Greensborough Sec College
+341
+-29
+27
+5.8%
+Grovedale College
+401
+-50
+26
+3.8%
+Haileybury College
+25
++2
+35
+23.5%
+Haileybury Girls College
+8
++2
+36
+30.1%
+Haileybury Rendall School
+60
+N/A
+33
+18.2%
+Hallam Senior Sec College
+525
++4
+22
+0.4%
+Hampton Park Sec College
+437
++38
+26
+0.8%
+Hawkesdale College
+393
++88
+27
+0%
+Healesville High School
+453
++33
+25
+3%
+Heathdale Christian College
+223
+-3
+29
+5.7%
+Heatherton Christian College
+226
+-111
+29
+5.3%
+Heathmont College
+433
+-126
+26
+0.9%
+Heritage College
+252
++169
+29
+3.2%
+Hester Hornbrook Academy
+555
+-3
+N/A
+N/A
+Heywood & District Sec College
+504
++12
+24
+0%
+Highvale Secondary College
+138
++117
+31
+7.8%
+Highview Christian Comm College
+204
++144
+30
+3.8%
+Hillcrest Christian College
+240
+-19
+29
+4.1%
+Holmes Secondary College
+277
++167
+28
+6.5%
+Holmesglen Institute of TAFE
+556
+-2
+N/A
+N/A
+Holmesglen Institute of TAFE
+557
+-4
+N/A
+N/A
+Holy Trinity Lutheran College
+80
+N/A
+33
+0%
+Hopetoun P-12 College
+322
++84
+28
+2.3%
+Hoppers Crossing Sec College
+351
+-60
+27
+3.7%
+Horsham College
+181
++41
+30
+5.7%
+Hume Anglican Grammar
+286
++38
+28
+4.4%
+Hume Central Sec College
+404
++100
+26
+3.6%
+Huntingtower School
+3
++3
+37
+33.9%
+Ilim College
+311
+-96
+28
+3.2%
+Ilim College Boys Campus
+390
+-89
+27
+0.6%
+Islamic College of Melbourne
+414
+N/A
+26
+2.2%
+Ivanhoe Girls' Grammar School
+49
+-1
+34
+17.7%
+Ivanhoe Grammar School
+57
++16
+34
+15.5%
+Ivanhoe Grammar School
+72
+-18
+33
+11.6%
+John Fawkner College
+515
+-54
+23
+0.6%
+John Monash Science School
+59
+-7
+34
+14.7%
+John Paul College
+291
++17
+28
+4.2%
+Kambrya College
+253
+-48
+29
+3.1%
+Kangan Institute of TAFE
+533
+-1
+19
+0%
+Kaniva P-12 College
+334
+-139
+28
+0%
+Kardinia Internatl College
+117
++5
+31
+12.7%
+Keilor Downs College
+172
++56
+30
+7.6%
+Kensington Comm High School
+558
+-3
+N/A
+N/A
+Kerang Christian College
+505
+-98
+24
+0%
+Kerang Technical High School
+443
+-23
+26
+0%
+Kew High School
+124
++43
+31
+10%
+Keysborough SC - Acacia
+306
++72
+28
+3.7%
+Keysborough SC - Banksia
+407
+-94
+26
+3.1%
+Kilbreda College
+145
++25
+31
+7.1%
+Killester College
+182
+-36
+30
+5.7%
+Kilvington Grammar School
+37
+-4
+35
+18.2%
+Kings College
+292
+-147
+28
+4.2%
+Kingswood College
+106
++2
+32
+8.9%
+Kolbe Catholic College
+430
+-3
+26
+1.2%
+Koo Wee Rup Sec College
+264
++71
+29
+2.5%
+Koonung Secondary College
+94
++36
+32
+10.8%
+Korowa Anglican Girls' School
+13
+-6
+36
+27.5%
+Korumburra Sec College
+342
++150
+27
+5.5%
+Kurnai College
+363
++38
+27
+2.8%
+Kurunjang Secondary College
+506
++13
+24
+0%
+Kyabram P-12 College
+454
++42
+25
+2.7%
+Kyneton Secondary College
+428
+-49
+26
+1.3%
+Lakes Entrance Sec College
+487
+-153
+24
+1.4%
+Lakeside Lutheran College
+438
+-97
+26
+0.6%
+Lakeview Senior College
+297
++14
+28
+4%
+Lalor North Sec College
+518
+-87
+23
+0%
+Lalor Secondary College
+378
+-107
+27
+1.9%
+Lara Secondary College
+476
++31
+25
+0%
+Lauriston Girls School
+19
++6
+35
+26.2%
+Lavalla Catholic College
+281
++81
+28
+5.3%
+Lavers Hill K-12 College
+272
++173
+29
+0%
+Laverton P-12 College
+516
+-8
+23
+0.6%
+Leibler Yavneh College
+28
+-2
+35
+22.8%
+Leongatha Secondary College
+462
+-116
+25
+1.6%
+Lighthouse Christian College
+184
++68
+30
+5.6%
+Lighthouse Christian College
+222
+-60
+29
+5.8%
+Lilydale Heights College
+498
+-62
+24
+0.4%
+Lilydale High School
+315
+-6
+28
+3%
+Little Yarra Steiner School
+77
++82
+33
+4.8%
+Loreto College
+155
+-8
+31
+5.8%
+Loreto Mandeville Hall
+15
+0
+36
+26.7%
+Lorne P-12 College
+335
++73
+28
+0%
+Lowanna College
+470
++53
+25
+0.4%
+Lowther Hall Anglican GS
+40
+-18
+34
+22.2%
+Loyola College
+206
+-3
+30
+3.7%
+Luther College
+83
++19
+32
+12.5%
+Lynall Hall Community School
+559
+-2
+N/A
+N/A
+Lyndale Secondary College
+419
+0
+26
+1.8%
+Lyndhurst Secondary College
+389
++59
+27
+0.8%
+Mac.Robertson Girls' High Schl
+4
+-3
+37
+32.5%
+MacKillop Catholic Reg College
+265
+-61
+29
+2.4%
+Macleod College
+459
+-6
+25
+2%
+Maffra Secondary College
+399
++26
+26
+4.2%
+Mallacoota P-12 College
+163
++246
+30
+12.5%
+Manangatang P-12 College
+449
+-82
+25
+10%
+Manor Lakes P-12 College
+420
+-46
+26
+1.8%
+Mansfield Secondary College
+394
++9
+27
+0%
+Maranatha Christian School
+177
+-38
+30
+6.7%
+Marcellin College
+169
+-1
+30
+8.1%
+Marian College Ararat
+402
+-46
+26
+3.8%
+Marian College Myrtleford
+386
++24
+27
+1.3%
+Marian College Sunshine
+317
+-57
+28
+2.9%
+Maribyrnong Sec College
+192
++38
+30
+4.9%
+Marist - Sion College
+267
+-40
+29
+2.2%
+Marist College Bendigo
+205
+N/A
+30
+3.8%
+Mary MacKillop Catholic College
+310
+-116
+28
+3.4%
+Maryborough Education Centre
+471
++17
+25
+0.4%
+Marymede Catholic College
+231
+-34
+29
+4.8%
+Mater Christi College
+113
+-18
+32
+7.9%
+Matthew Flinders Girls' SC
+293
++136
+28
+4.2%
+Mazenod College
+82
++14
+32
+12.7%
+McClelland Secondary College
+355
+-92
+27
+3.4%
+McGuire College
+524
+-42
+22
+0.7%
+McKinnon Secondary College
+48
++15
+34
+17.8%
+Melba College
+367
+-70
+27
+2.5%
+Melbourne Girls Grammar
+21
+-10
+35
+25.1%
+Melbourne Girls' College
+61
++10
+33
+18.2%
+Melbourne Grammar School
+14
++28
+36
+27.5%
+Melbourne High School
+2
++7
+37
+34.2%
+Melbourne Polytechnic
+560
+-2
+N/A
+N/A
+Melbourne Rudolf Steiner Schl
+193
+-45
+30
+4.9%
+Melton Christian College
+412
++26
+26
+2.4%
+Melton Secondary College
+318
++36
+28
+2.8%
+Mentone Girls' Grammar School
+42
++2
+34
+21.5%
+Mentone Girls' Sec College
+121
++5
+31
+11.1%
+Mentone Grammar School
+34
++2
+35
+20.5%
+Mercy College
+349
+-88
+27
+4%
+Mercy Regional College
+323
++8
+28
+2.2%
+Merinda Park Learning Centre
+561
+-2
+N/A
+N/A
+Methodist Ladies College
+17
+-4
+36
+26%
+Mildura Senior College
+372
++15
+27
+2.3%
+Mill Park Secondary College
+484
+-30
+24
+1.8%
+Minaret College
+287
++63
+28
+4.4%
+Minaret College
+466
++7
+25
+0.9%
+Mirboo North Sec College
+158
++124
+31
+4.3%
+Monbulk College
+356
+-125
+27
+3.3%
+Monivae College
+257
++18
+29
+2.8%
+Monterey Secondary College
+507
++17
+24
+0%
+Montmorency Sec College
+201
++28
+30
+4.2%
+Mooroolbark College
+379
+-4
+27
+1.9%
+Mooroopna Secondary College
+444
++62
+26
+0%
+Mordialloc College
+164
++183
+30
+9.8%
+Mornington Secondary College
+383
++17
+27
+1.6%
+Mortlake College
+258
+-186
+29
+2.8%
+Mount Alexander 7-12 Coll
+348
++86
+27
+4.2%
+Mount Beauty Sec College
+325
++63
+28
+2%
+Mount Clear College
+425
++62
+26
+1.4%
+Mount Eliza Sec College
+256
++40
+29
+3%
+Mount Erin College
+329
++73
+28
+1.6%
+Mount Evelyn Christian School
+227
+-39
+29
+5.2%
+Mount Lilydale Mercy College
+321
+-71
+28
+2.5%
+Mount Ridley P-12 College
+432
++23
+26
+1.1%
+Mount Scopus Memorial College
+10
+-8
+36
+29.1%
+Mount St Joseph Girls' College
+119
++23
+31
+11.5%
+Mount Waverley Sec College
+143
++41
+31
+7.2%
+Mountain District Christian SC
+373
+-165
+27
+2.3%
+Mountain District Learn Centre
+562
+-2
+N/A
+N/A
+Mt Hira College
+344
++42
+27
+5%
+Mullauna College
+190
+-55
+30
+5.2%
+Murrayville Community College
+78
++3
+33
+4.8%
+Murtoa P-12 College
+210
++113
+29
+8.9%
+Myrtleford P-12 College
+508
+-76
+24
+0%
+Nagle College
+326
++107
+28
+2%
+Narre Community Learn Centre
+563
+-2
+N/A
+N/A
+Narre Warren Sth P-12 College
+95
++107
+32
+10.7%
+Nathalia Secondary College
+519
+-193
+23
+0%
+Nazareth College
+232
++10
+29
+4.7%
+Neerim District Sec College
+336
+-50
+28
+0%
+Newcomb Secondary College
+395
++106
+27
+0%
+Newhaven College
+134
++21
+31
+8.2%
+Nhill College
+327
+-111
+28
+1.9%
+Noble Park Secondary College
+439
++17
+26
+0.5%
+North Geelong Sec College
+422
++40
+26
+1.6%
+North Melbourne Grammar Coll
+477
++48
+25
+0%
+North Ringwood Comm House
+564
+N/A
+N/A
+N/A
+Northcote High School
+178
+-47
+30
+6.6%
+Northern Bay P-12 College
+521
++5
+22
+2.2%
+Northern College of Arts & Tech
+368
+-16
+27
+2.5%
+Northside Christian College
+162
+-2
+30
+14.6%
+Norwood Secondary College
+219
++87
+29
+5.9%
+Nossal High School
+20
++4
+35
+26.1%
+Notre Dame College
+228
+-9
+29
+4.9%
+Numurkah Secondary College
+360
++153
+27
+2.9%
+Nunawading Christian College
+92
++73
+32
+11.1%
+Oakleigh Grammar
+270
+-63
+29
+1.7%
+Oakwood School
+565
+-3
+N/A
+N/A
+Oberon High School
+345
+-89
+27
+4.6%
+Orbost Secondary College
+509
++18
+24
+0%
+Our Lady of Mercy College
+90
++4
+32
+11.5%
+Our Lady of Sacred Heart Coll
+73
++33
+33
+11.5%
+Our Lady of Sion College
+69
++9
+33
+12.7%
+Ouyen P-12 College
+339
+-227
+27
+7.5%
+Overnewton Anglican Comm Coll
+191
+-17
+30
+5%
+Oxley Christian College
+107
+-8
+32
+8.7%
+Ozford College
+530
+0
+20
+2.2%
+Padua College
+199
++63
+30
+4.3%
+Pakenham Secondary College
+380
++13
+27
+1.9%
+Parade College
+173
+-24
+30
+7.5%
+Parkdale Secondary College
+234
++34
+29
+4.5%
+Parkville College
+566
+-3
+N/A
+N/A
+Pascoe Vale Girls Sec College
+371
+-1
+27
+2.4%
+Patterson River Sec College
+396
+-64
+27
+0%
+Peninsula Grammar
+99
+-31
+32
+10%
+Penleigh & Essendon Grammar
+23
++8
+35
+24.3%
+Penola Catholic College
+361
+-80
+27
+2.9%
+Peter Lalor Vocational Coll
+567
+-3
+N/A
+N/A
+Phoenix P-12 Comm Coll
+376
++52
+27
+2%
+Pines Learning
+568
+-3
+N/A
+N/A
+Plenty Valley Christian College
+238
+-52
+29
+4.2%
+Point Cook Senior Sec College
+353
++18
+27
+3.6%
+Portland Secondary College
+467
+-27
+25
+0.8%
+Presbyterian Ladies' College
+6
++6
+36
+31.7%
+Presentation College
+174
++1
+30
+7.5%
+Preshil The Margaret Lyttle SC
+207
++66
+30
+3.7%
+Preston Reservoir ACE
+569
+-3
+N/A
+N/A
+Princes Hill Sec College
+81
++40
+32
+13.8%
+RMIT TAFE
+415
++50
+26
+2.2%
+Rainbow P-12 College
+337
+-15
+28
+0%
+Red Cliffs Secondary College
+522
+-38
+22
+1.7%
+Reservoir High School
+346
++18
+27
+4.4%
+Ringwood Secondary College
+185
++40
+30
+5.5%
+River Nile School
+570
+-3
+N/A
+N/A
+Robinvale College
+528
+-38
+21
+1.5%
+Rochester Secondary College
+362
++34
+27
+2.9%
+Rosebud Secondary College
+246
++83
+29
+3.8%
+Rosehill Secondary College
+239
++37
+29
+4.2%
+Rowville Secondary College
+423
+-26
+26
+1.6%
+Roxburgh College
+451
++19
+25
+3.5%
+Rushworth P-12 College
+445
++1
+26
+0%
+Rutherglen High School
+298
++120
+28
+4%
+Ruyton Girls' School
+5
++11
+37
+29.9%
+SEDA College
+571
+-3
+N/A
+N/A
+Sacre Coeur
+16
++2
+36
+26.5%
+Sacred Heart College
+284
++52
+28
+4.9%
+Sacred Heart College Geelong
+136
+-78
+31
+8%
+Sacred Heart College Kyneton
+150
+-27
+31
+6.6%
+Sacred Heart Girls' College
+93
+-34
+32
+10.9%
+Saint Ignatius College
+154
+-45
+31
+6%
+Sale College
+464
++10
+25
+1.2%
+Salesian College
+153
++3
+31
+6.4%
+Salesian College Sunbury
+254
++23
+29
+3.1%
+Sandringham College
+304
+-34
+28
+3.8%
+Santa Maria College
+137
+-19
+31
+7.9%
+Scoresby Secondary College
+330
++172
+28
+1.6%
+Scotch College
+31
+-14
+35
+21.6%
+Seymour College
+429
++21
+26
+1.3%
+Shelford Girls' Grammar
+30
+-10
+35
+22.3%
+Shepparton ACE College
+572
+-3
+N/A
+N/A
+Shepparton Christian College
+385
+-100
+27
+1.4%
+Shepparton High School
+495
+-10
+24
+0.5%
+Sherbrooke Community School
+446
++5
+26
+0%
+Siena College
+50
++7
+34
+17.5%
+Simonds Catholic College
+262
+-104
+29
+2.7%
+Sirius College - Eastmeadows
+120
++4
+31
+11.4%
+Sirius College - Keysborough
+278
+-44
+28
+5.8%
+Sirius College - Meadow Fair
+116
+-42
+31
+13.3%
+Skillsplus
+573
+-3
+N/A
+N/A
+Somerville Secondary College
+434
++24
+26
+0.9%
+South Oakleigh Sec College
+259
++15
+29
+2.8%
+South West Institute of TAFE
+574
+-3
+N/A
+N/A
+Southern Cross Grammar
+157
+-95
+31
+4.6%
+Southern Grampians Adult Edu
+575
+-3
+N/A
+N/A
+St Albans Secondary College
+179
+-15
+30
+6.5%
+St Aloysius College
+170
+-56
+30
+7.8%
+St Andrews Christian College
+135
+-38
+31
+8.2%
+St Arnaud Secondary College
+490
+-55
+24
+1.1%
+St Augustine's College
+300
+-36
+28
+3.9%
+St Bede's College
+171
+-30
+30
+7.8%
+St Bernard's College
+130
++10
+31
+8.8%
+St Brigid's College
+313
++7
+28
+3.1%
+St Catherine's School
+35
++12
+35
+19.6%
+St Columba's College
+85
++5
+32
+12.2%
+St Francis Xavier College
+189
++68
+30
+5.3%
+St Helena Secondary College
+244
+-57
+29
+3.9%
+St John's Greek Orth College
+237
++178
+29
+4.3%
+St John's Regional College
+364
+-50
+27
+2.7%
+St Joseph's College
+126
+-6
+31
+9.8%
+St Joseph's College
+183
+-3
+30
+5.7%
+St Joseph's College
+224
+-1
+29
+5.6%
+St Joseph's College
+269
++61
+29
+1.8%
+St Kevin's College
+7
+-2
+36
+30.2%
+St Leonard's College
+43
++12
+34
+20.1%
+St Margaret's School
+51
+-14
+34
+17.2%
+St Mary MacKillop College
+196
++55
+30
+4.8%
+St Mary of the Angels School
+202
++189
+30
+4.2%
+St Mary's Coptic Orth College
+338
++6
+27
+8.6%
+St Michael's Grammar School
+58
++7
+34
+15.3%
+St Monica's College
+250
+-74
+29
+3.4%
+St Patrick's College
+187
++85
+30
+5.4%
+St Paul's Anglican Grammar Schl
+70
++28
+33
+12.7%
+St Peter's College
+388
+-7
+27
+0.9%
+St Thomas Aquinas College
+109
++208
+32
+8.6%
+Star of the Sea College
+54
++15
+34
+16.5%
+Staughton College
+441
+0
+26
+0.4%
+Stawell Secondary College
+440
++53
+26
+0.5%
+Stott's College
+478
+-133
+25
+0%
+Strathcona Baptist Girls GS
+22
+-3
+35
+24.6%
+Strathmore Secondary College
+133
+-30
+31
+8.6%
+Sunbury College
+424
+-34
+26
+1.6%
+Sunbury Downs Sec College
+125
++32
+31
+9.9%
+Sunraysia Institute of TAFE
+576
+-3
+N/A
+N/A
+Sunshine College
+233
++46
+29
+4.7%
+Surf Coast Sec College
+331
+-4
+28
+1.6%
+Suzanne Cory High School
+47
+-9
+34
+18.3%
+Swan Hill College
+365
++84
+27
+2.7%
+Swifts Creek P-12 School
+510
+-297
+24
+0%
+Swinburne Senior Sec College
+288
++50
+28
+4.4%
+Swinburne Uni of Tech - TAFE
+577
+-3
+N/A
+N/A
+Sydney Road Community School
+447
++67
+26
+0%
+Tallangatta Secondary College
+403
+-64
+26
+3.7%
+Tarneit Senior College
+472
+-30
+25
+0.4%
+Taylors Lakes Sec College
+431
+-49
+26
+1.2%
+Templestowe College
+307
++11
+28
+3.5%
+Terang College Sec Campus
+316
+-81
+28
+3%
+The David Scott School
+578
+-2
+N/A
+N/A
+The Geelong College
+65
+-16
+33
+15.2%
+The Grange P-12 College
+312
++156
+28
+3.2%
+The Hamilton & Alexandra Coll
+101
+-13
+32
+9.6%
+The King David School
+27
+-6
+35
+23.1%
+The Knox School
+110
+-5
+32
+8.4%
+Thomas Carr College
+377
++22
+27
+2%
+Thomastown Secondary College
+489
++16
+24
+1.2%
+Thornbury High School
+209
+-11
+30
+2.9%
+Timboon P-12 School
+479
+-137
+25
+0%
+Tintern Grammar
+100
++33
+32
+9.8%
+Toorak College
+45
++5
+34
+19.2%
+Trafalgar High School
+366
+-63
+27
+2.7%
+Traralgon College
+492
++23
+24
+0.9%
+Trinity College Colac
+299
++54
+28
+4%
+Trinity Grammar School
+32
+-9
+35
+21.2%
+Tyrrell College
+273
+-59
+28
+12.7%
+University High School
+67
++16
+33
+14.9%
+Upper Yarra Secondary College
+458
+-28
+25
+2.2%
+Upwey High School
+405
+-11
+26
+3.3%
+Vermont Secondary College
+129
++7
+31
+8.9%
+Victoria University - TAFE
+529
++2
+21
+0%
+Victoria University SC
+410
+-37
+26
+2.5%
+Victorian College for the Deaf
+579
+-2
+N/A
+N/A
+Victorian College of the Arts
+62
+-30
+33
+16.1%
+Victory Christian College
+249
+-12
+29
+3.5%
+Victory Lutheran College
+294
+-177
+28
+4.2%
+Viewbank College
+96
++5
+32
+10.4%
+Wallan Secondary College
+523
+-47
+22
+0.8%
+Wanganui Park Sec College
+374
+-9
+27
+2.3%
+Wangaratta High School
+347
+-53
+27
+4.4%
+Wantirna College
+305
+-13
+28
+3.8%
+Warracknabeal Sec College
+218
++148
+29
+6.1%
+Warragul Regional College
+369
++78
+27
+2.5%
+Warrandyte High School
+319
++92
+28
+2.7%
+Warrnambool College
+357
+-111
+27
+3.3%
+Waverley Christian College
+76
+0
+33
+10.8%
+Wedderburn College
+397
+-138
+27
+0%
+Wellington Secondary College
+229
+-46
+29
+4.9%
+Werribee Secondary College
+165
+-4
+30
+9.2%
+Werrimull P-12 College
+448
+-164
+26
+0%
+Wesley College
+98
+-23
+32
+10.1%
+Wesley College
+108
++2
+32
+8.7%
+Westall Secondary College
+354
+-64
+27
+3.6%
+Westbourne Grammar School
+55
++1
+34
+16.5%
+Western Heights Sec College
+494
+-5
+24
+0.6%
+Western Port Sec College
+480
+-1
+25
+0%
+Western Senior Sec Coll
+580
+-2
+N/A
+N/A
+Wheelers Hill Sec College
+426
+-77
+26
+1.4%
+Whitefriars College
+198
+-13
+30
+4.5%
+Whittlesea Secondary College
+413
+-30
+26
+2.4%
+William Angliss Inst of TAFE
+581
+-2
+N/A
+N/A
+William Ruthven Sec College
+435
++36
+26
+0.9%
+Williamstown High School
+104
++34
+32
+9.1%
+Wodonga Institute of TAFE
+582
+-2
+N/A
+N/A
+Wodonga Senior Sec College
+483
+-20
+24
+2.5%
+Wonthaggi Secondary College
+350
+-52
+27
+4%
+Woodleigh School
+118
+-48
+31
+12.4%
+Wycheproof P-12 College
+159
++184
+31
+2.9%
+Wyndham Central Sec Coll
+499
+-110
+24
+0.4%
+Wyndham Community Centre
+583
+-2
+N/A
+N/A
+Xavier College
+53
++14
+34
+17%
+Yarra Hills Secondary College
+468
++10
+25
+0.7%
+Yarra Valley Grammar School
+52
+-6
+34
+17.2%
+Yarram Secondary College
+455
++39
+25
+2.6%
+Yarrawonga College P-12
+436
+-141
+26
+0.9%
+Yea High School
+461
+-168
+25
+1.8%
+Yeshivah College
+63
+-55
+33
+15.6%
+Yesodei HaTorah College
+38
++2
+34
+24%
+Yuille Park Community College
+584
+-2
+N/A
+N/A
